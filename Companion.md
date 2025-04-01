@@ -47,18 +47,8 @@ Off-line zeros (not on \( \text{Re}(s) = 1/2 \)) break the kernel symmetry ⇒ t
 ---
 
 ## 📁 Files
-- `rh_proof_draft_paper.md`: The main paper
-- `README_RH_Proof.md`: This companion file
-- `riemann_hypothesis_proof_statement.md`: Final boxed theorem
-- `riemann_hypothesis_simulation_thesis.md`: Symbolic thesis statement
-
----
-
-## 📌 Next Steps
-- Expand paper into LaTeX + submit to arXiv or journal
-- Visualize the kernel and resonance line
-- Extend this method to other L-functions
-
+- `Readmer.md`: The main paper
+- `Companion.md`: This companion file
 ---
 
 ## 👤 Authorship & Contact
